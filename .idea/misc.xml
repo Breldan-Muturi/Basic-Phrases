@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/doyouspeakenglish.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/goodevening.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/hello.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/howareyou.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ilivein.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/mynameis.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/please.m4a" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/welcome.m4a" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
